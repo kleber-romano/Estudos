@@ -5,9 +5,16 @@ public class Livro {
 	private String descricao;
 	private double valor;
 	private String isbn;
+	private Autor autor;
 	
 	
 	
+	public Autor getAutor() {
+		return autor;
+	}
+	public void setAutor(Autor autor) {
+		this.autor = autor;
+	}
 	public String getNome() {
 		return nome;
 	}
@@ -39,5 +46,23 @@ public class Livro {
 		System.out.println("Descrição: " + descricao);
 		System.out.println("Valor: R$ " + valor);
 		System.out.println("ISBN: " + isbn);
+		
+		if (this.temAutor()) {
+			autor.mostrarDetalhes();
+		}
+		System.out.println("--");
 	}
+	
+	public boolean aplicaDescontos(double porcentagem) {
+		if (porcentagem > 0.3) {
+			System.out.println("Desconto não pode ser maior que 30%");
+		}
+		this.valor -= this.valor * porcentagem;
+		return true;
+	}
+	
+	public boolean temAutor() {
+		return this.autor != null;
+	}
+	
 }
