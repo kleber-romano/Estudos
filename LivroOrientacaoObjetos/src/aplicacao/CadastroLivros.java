@@ -1,6 +1,7 @@
 package aplicacao;
 
 import entidades.Autor;
+import entidades.Ebook;
 import entidades.Livro;
 
 public class CadastroLivros {
@@ -17,6 +18,7 @@ public class CadastroLivros {
 		livro.setValor(59.90);
 		livro.setIsbn("978-85-6225-46-6");
 		livro.setAutor(autor);
+				
 		livro.mostrarDetalhes();
 		
 		Autor outroAutor = new Autor();
@@ -31,6 +33,15 @@ public class CadastroLivros {
 		outroLivro.setIsbn("978-75-6524-75-2");
 		outroLivro.setAutor(outroAutor);
 		outroLivro.mostrarDetalhes();
+		
+		Ebook ebook = new Ebook();
+		ebook.setNome("Algoritmos em Java");
+		ebook.setAutor(outroAutor);
+		ebook.setDescricao("Algoritmos e estruturas de dados em java");
+		ebook.setIsbn("123-45-6789-00-1");
+		ebook.setValor(39.99);
+		ebook.mostrarDetalhes();
+		
 		
 
 	}

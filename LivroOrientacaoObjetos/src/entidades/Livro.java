@@ -6,6 +6,7 @@ public class Livro {
 	private double valor;
 	private String isbn;
 	private Autor autor;
+	private boolean impresso;
 	
 	
 	
@@ -38,6 +39,16 @@ public class Livro {
 	}
 	public void setIsbn(String isbn) {
 		this.isbn = isbn;
+	}
+	
+	public Livro() {
+		
+	}
+	
+	public Livro (Autor autor) {
+		this.autor = autor;
+		this.isbn = "000-00-00000-00-0";
+		this.impresso = true;
 	}
 	
 	public void mostrarDetalhes() {
