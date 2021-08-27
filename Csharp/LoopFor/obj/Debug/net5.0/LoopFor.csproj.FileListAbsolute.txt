@@ -1,0 +1,16 @@
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.exe
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.deps.json
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.runtimeconfig.json
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.runtimeconfig.dev.json
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.dll
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\ref\LoopFor.dll
+D:\git\Estudos\Csharp\LoopFor\bin\Debug\net5.0\LoopFor.pdb
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.csproj.AssemblyReference.cache
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.AssemblyInfoInputs.cache
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.AssemblyInfo.cs
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.csproj.CoreCompileInputs.cache
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.dll
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\ref\LoopFor.dll
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.pdb
+D:\git\Estudos\Csharp\LoopFor\obj\Debug\net5.0\LoopFor.genruntimeconfig.cache

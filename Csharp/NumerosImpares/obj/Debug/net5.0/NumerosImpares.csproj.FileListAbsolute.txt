@@ -1,0 +1,16 @@
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.exe
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.deps.json
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.json
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.dev.json
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.dll
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\ref\NumerosImpares.dll
+D:\git\Estudos\Csharp\NumerosImpares\bin\Debug\net5.0\NumerosImpares.pdb
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.AssemblyReference.cache
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfoInputs.cache
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfo.cs
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.CoreCompileInputs.cache
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.dll
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\ref\NumerosImpares.dll
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.pdb
+D:\git\Estudos\Csharp\NumerosImpares\obj\Debug\net5.0\NumerosImpares.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.exe
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.dll
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+D:\git\Estudos\Csharp\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.csproj.AssemblyReference.cache
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.dll
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+D:\git\Estudos\Csharp\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache

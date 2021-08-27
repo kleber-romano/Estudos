@@ -1,0 +1,16 @@
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.exe
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.deps.json
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.runtimeconfig.json
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.runtimeconfig.dev.json
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.dll
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\ref\SomaDeImparesConsecutivos.dll
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\bin\Debug\net5.0\SomaDeImparesConsecutivos.pdb
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.csproj.AssemblyReference.cache
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.AssemblyInfoInputs.cache
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.AssemblyInfo.cs
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.csproj.CoreCompileInputs.cache
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.dll
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\ref\SomaDeImparesConsecutivos.dll
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.pdb
+D:\git\Estudos\Csharp\SomaDeImparesConsecutivos\obj\Debug\net5.0\SomaDeImparesConsecutivos.genruntimeconfig.cache
